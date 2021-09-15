@@ -2,7 +2,7 @@
  
 Function to round the value according to decimal places in Binance.
 
-## PARA QUE SERVE?
+## WHAT IS IT FOR?
 
 When placing a purchase order with API you get the LOT_SIZE error.
 
